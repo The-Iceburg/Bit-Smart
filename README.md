@@ -1,2 +1,2 @@
 # Bit-Smart
-Online revision tool for A-Level Computer Science
+Bit smart is an online revision tool for Computer Science. Get a bit smarter today at [theiceburg.net/bit-smart](https://theiceburg.net/bit-smart)
